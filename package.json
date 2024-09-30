@@ -1,6 +1,6 @@
 {
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@{TyshchenkoOleksandr}"
+    "registry": "https://npm.pkg.github.com/TyshchenkoOleksandr"
   },
   "name": "test-lib",
   "version": "1.0.0",
