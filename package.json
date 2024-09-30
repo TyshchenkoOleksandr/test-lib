@@ -2,7 +2,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/TyshchenkoOleksandr"
   },
-  "name": "test-lib12345",
+  "name": "@TyshchenkoOleksandr/test-lib12345",
   "version": "1.0.0",
   "description": "",
   "type": "module",
